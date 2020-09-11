@@ -1,0 +1,3 @@
+include ':progressviewlib'
+include ':app',':progressviewslib'
+rootProject.name = "StayFit"

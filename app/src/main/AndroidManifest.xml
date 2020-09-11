@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.stayfit">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon1"
+        android:label="StayFit"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".StepcounterActivity"></activity>
+
+        <activity android:name=".Stopwatch" />
+        <activity android:name=".FitnessTipsActivity" />
+        <activity android:name=".WorkoutActivity" />
+        <activity android:name=".RemainderActivity" />
+        <activity android:name=".BmiActivity" />
+        <activity android:name=".UserActivty" />
+        <activity android:name=".ActivityLogin" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".AlaramReceiver" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

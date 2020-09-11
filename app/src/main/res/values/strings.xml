@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">StayFit</string>
+    <string name="height">Enter height in cm</string>
+    <string name="weight">Enter weight in kg</string>
+    <string name="RESULT">RESULT</string>
+    <string name="very_severely_underweight">Very severely underweight</string>
+    <string name="severely_underweight">Severely underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese class I (Moderately Obese)</string>
+    <string name="obese_class_ii">Obese class II (Severely Obese)</string>
+    <string name="obese_class_iii">Obese class III (Very Severely Obese)</string>
+    <string name="fitness_tips">Fitness Tips</string>
+    <string name="para">\n\n
+        <b><u><font color='#00008b'>1.Exercise Daily:</font></u></b>
+        \n\nExercise daily for at least an hour. You do not have to kill yourself from running, jogging, etc., but you should have some sort of moderate physical activity in your everyday life.
+        \n\n
+        <b><u><font color='#00008b'>2.Eat the Right Foods and Portion Each Meal:</font></u></b>
+        \n\nNo matter how bad your stomach is telling you to go for candy over healthy food, try to stay away from sweets. Sugar from candy will not help you get in shape. Even if it is just a single candy bar, one will eventually lead to another.
+        \n\n
+        <b><u><font color='#00008b'>3.Keep Track of Calories and Food Intake Per Day:</font></u></b>
+        \n\nKeeping track of how many calories you eat in a day will be helpful in planning out your physical exercising. Ever wonder why body builders body masses are so big? That is because they plan out their meals and take in more (healthy) calories than the average person. On the other hand, losing weight and striving for a skinnier physique will involve more physical exercise than calories you ingest.
+        \n\n
+        <b><u><font color='#00008b'>4.Be Sure to Get Sleep:</font></u></b>
+        \n\nEven though most of us have eight-hour jobs during the day or night, it is crucial to get enough sleep to recharge the body batteries. Six to eight hours of sleep will keep the body going throughout the day, but if you happen to feel tired at any point after coming home from work, by all means take a small nap before exercising. You should only nap for about a half hour. This will prevent you from staying up later in the night.
+        \n\n
+        <b><u><font color='#00008b'>5.Stay Motivated:</font></u></b>
+        \n\nAn important key to being in shape is to set goals and keep a positive mindset. If you stay positive, you will be able to push yourself to get that fit body you have always wanted.
+    </string>
+
+
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+    <string name="reset">RESET</string>
+    <string name="Back">BACK</string>
+
+    <string name="workout">WORKOUTS\n</string>
+
+    <string name="lunges"><b><font color='#00008b'>LUNGES</font></b>\n1.Start by standing with your feet shoulder-width apart and arms down at your sides.\n2.Take a step forward with your right leg and bend your right knee as you do so, stopping when your thigh is parallel to the ground. Ensure that your right knee doesn’t extend past your right foot.
+\n3.Push up off your right foot and return to the starting position. Repeat with your left leg. This is one rep.
+\n4.Complete 10 reps for 3 sets.
+</string>
+
+    <string name="squat">\n<b><font color='#00008b'>SQUATS</font></b>\n1.Start by standing straight, with your feet slightly wider than shoulder-width apart, and your arms at your sides.\n2.Brace your core and, keeping your chest and chin up, push your hips back and bend your knees as if you’re going to sit in a chair.\n3.
+Ensuring your knees don’t bow inward or outward, drop down until your thighs are parallel to the ground, bringing your arms out in front of you in a comfortable position. Pause for one second, then extend your legs and return to the starting position.
+\n4.Complete 3 sets of 20 reps.</string>
+
+    <string name="push">\n<b><font color='#00008b'>PUSHUPS</font></b>\n1.Start in a plank position. Your core should be tight, shoulders pulled down and back, and your neck neutral.\n2.
+Bend your elbows and begin to lower your body down to the floor. When your chest grazes it, extend your elbows and return to the start. Focus on keeping your elbows close to your body during the movement.
+\n3.Complete 3 sets of as many reps as possible.</string>
+
+</resources>
